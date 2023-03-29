@@ -21,7 +21,16 @@
 - H2 database
 - HTML5 , CSS3 , JavaScript (ES5, ES6)
 
-
+# 화면
+![image](https://user-images.githubusercontent.com/128597230/228470671-4e6885c5-ebb4-44a1-9fd9-b110b5154838.png)
+# 작성
+![image](https://user-images.githubusercontent.com/128597230/228470725-7fc33a29-823c-4f46-979b-8b8c20f4dc0b.png)
+# 삭제 
+![image](https://user-images.githubusercontent.com/128597230/228470847-fd492060-9da8-4c70-bbe5-3672c7d20081.png)
+# 수정 
+![image](https://user-images.githubusercontent.com/128597230/228470911-ea3a9a1f-ac46-4f11-835c-628753423d06.png)
+# commit 
+![image](https://user-images.githubusercontent.com/128597230/228471013-e33d66ab-1eca-460b-8814-0da41bf976b3.png)
 
 
 
