@@ -11,24 +11,20 @@
 <a href = "https://github.com/Hun-Se"><img alt="Apache" src ="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
 <a href = "https://github.com/Hun-Se"><img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <a href = "https://github.com/Hun-Se"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-1572B6.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <a href = "https://github.com/Hun-Se"><img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse IDE&logoColor=white"/> <a href = "https://github.com/Hun-Se"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
 
-# JSP 기반의 회원관리리스트 (회원가입,검색기능구현)
+# Spring Boot Todolist 프로젝트 
 
 - #개발환경 
 - Microsoft Windows 10 v22H2
-- Java version 1.7**
+- Spring Framework / Spring Tool Suite 4 Version:4.18.0.RELEASE
 - Eclipse Java v2021-12 / 2022-03 / 2023-03
-- Apache Maven v3.9.1
 - lombok v1.18.26
-- MySQL version 8.0.32**
-- Bootstrap version 3.3.7**
-- Apache Tomcat v9.0.73
-- HTML5 , CSS3 , JavaScript (ES5, ES6) , AJax
+- H2 database
+- HTML5 , CSS3 , JavaScript (ES5, ES6)
 
 
 
 
 
 
-https://user-images.githubusercontent.com/128597230/226907089-1339bd3d-5429-4e64-90ea-849491a4464d.mp4
 
 
